@@ -23,4 +23,4 @@ Diese Dinge programmieren wir in Folgenden Sprachen:
 <h3><b>Kontakt</b></h3>
 Falls du Vorschläge für Projekte oder mit uns für andere Zwecke in Kontakt treten möchtest, kannst du uns unter folgenden Wegen erreichen:
 <br>
-<ul><b>E-Mail:</b> <a href="mailto:kontakt@devload.eu">kontakt@devload.eu</a><br><b>Discord: </b><a href="https://devload.eu/discord">https://devload.eu/discord</a><br><b>Ticket:</b> <a href="https://devload.eu/support/ticket/create">https://devload.eu/support/ticket/create</a></ul>
+<ul><b>E-Mail:</b> <a href="mailto:kontakt@devload.eu">kontakt@devload.eu</a><br><b>Discord: </b><a href="https://devload.eu/discord">https://devload.eu/discord</a><br>
