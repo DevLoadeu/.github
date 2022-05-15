@@ -11,7 +11,6 @@ Wir sind ein deutsches Entwicklungsteam, welches an folgenden Projekten Arbeitet
 <li>ToXy Development</li>
 <li>EasyTicket [Discord Bot]</li>
 <li>Hermen [Discord Bot]</li>
-<li>AD-Hub [Coming soon...]</li>
 </ul>
 <hr>
 <h3><b>Programmiersprachen</b></h3>
