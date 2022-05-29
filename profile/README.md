@@ -1,3 +1,5 @@
+<img src="https://devload.eu/banner/discord/DevLoad-GitHub.png" alt="DevLoadeu GitHub">
+
 <h1>DevLoad</h1>
 <h5>Wir programmieren Websiten, Discord Bots, Minecraft Plugins und mehr!</h5>
 
